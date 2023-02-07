@@ -89,7 +89,7 @@
   * [Модуль памяти 6 ур.](igrovye-momenty/pitomcy/modul-pamyati-6-ur..md)
   * [Модуль памяти 7 ур.](igrovye-momenty/pitomcy/modul-pamyati-7-ur..md)
   * [Модуль памяти 8 ур.](igrovye-momenty/pitomcy/modul-pamyati-8-ur..md)
-  * [Кислотная капля](igrovye-momenty/pitomcy/kislotnaya-kaplya.md)
+  * [Кислотная капля123](igrovye-momenty/pitomcy/kislotnaya-kaplya.md)
 * [🏝 Генерации](igrovye-momenty/generacii/README.md)
   * [Верхний мир](igrovye-momenty/generacii/verkhnii-mir.md)
   * [Незер](igrovye-momenty/generacii/nezer.md)
