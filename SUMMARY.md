@@ -93,7 +93,24 @@
 
 ## 🪄 Кастомные чары
 
-* [Простые чары](kastomnye-chary/page-2.md)
+* [Простые чары](kastomnye-chary/page-2/README.md)
+  * [Удар](kastomnye-chary/page-2/udar.md)
+  * [Перемешка](kastomnye-chary/page-2/peremeshka.md)
+  * [Водяной](kastomnye-chary/page-2/vodyanoi.md)
+  * [Переплавка](kastomnye-chary/page-2/pereplavka.md)
+  * [Тошнота](kastomnye-chary/page-2/toshnota.md)
+  * [Эфирность](kastomnye-chary/page-2/efirnost.md)
+  * [Опыт](kastomnye-chary/page-2/opyt.md)
+  * [Усиление рук](kastomnye-chary/page-2/usilenie-ruk.md)
+  * [Безсонница](kastomnye-chary/page-2/bezsonnica.md)
+  * [Громовержец](kastomnye-chary/page-2/gromoverzhec.md)
+  * [Оксигинез](kastomnye-chary/page-2/oksiginez.md)
+  * [Тор](kastomnye-chary/page-2/tor.md)
+  * [Светильник](kastomnye-chary/page-2/svetilnik.md)
+  * [Обезглавливание](kastomnye-chary/page-2/obezglavlivanie.md)
+  * [Безголовый](kastomnye-chary/page-2/bezgolovyi.md)
+  * [Отталкивание](kastomnye-chary/page-2/ottalkivanie.md)
+  * [Эпичность](kastomnye-chary/page-2/epichnost.md)
 
 ## 📙 Команды
 
