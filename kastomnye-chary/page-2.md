@@ -1,4 +1,4 @@
 # Простые чары
 
-## ->Удар<- <a href="#udar" id="udar"></a>
+## [Удар](page-2.md#udar) <a href="#udar" id="udar"></a>
 
