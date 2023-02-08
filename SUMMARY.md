@@ -103,6 +103,15 @@
 
 * [Page 2](kastomnye-chary/page-2.md)
 
+## 📙 Команды
+
+* [Приваты](komandy/privaty.md)
+* [Продажа и покупка](komandy/prodazha-i-pokupka.md)
+* [Платные команды](komandy/platnye-komandy.md)
+* [Варпы](komandy/varpy.md)
+* [Чары](komandy/chary.md)
+* [Разное](komandy/raznoe.md)
+
 ## 🗃 Плагины
 
 * [Page 1](plaginy/page-1.md)
