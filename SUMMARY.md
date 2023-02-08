@@ -93,7 +93,8 @@
 
 ## 🪄 Кастомные чары
 
-* [Простые чары](kastomnye-chary/page-2.md)
+* [Простые чары](kastomnye-chary/page-2/README.md)
+  * [Удар](kastomnye-chary/page-2/udar.md)
 
 ## 📙 Команды
 
