@@ -93,7 +93,7 @@
 
 ## 🪄 Кастомные чары
 
-* [Page 2](kastomnye-chary/page-2.md)
+* [Простые чары](kastomnye-chary/page-2.md)
 
 ## 📙 Команды
 
@@ -102,6 +102,7 @@
 * [Платные команды](komandy/platnye-komandy.md)
 * [Варпы](komandy/varpy.md)
 * [Чары](komandy/chary.md)
+* [Особые чары](komandy/osobye-chary.md)
 * [Разное](komandy/raznoe.md)
 
 ## 🗃 Плагины
