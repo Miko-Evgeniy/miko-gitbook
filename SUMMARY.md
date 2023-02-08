@@ -107,10 +107,10 @@
 
 * [Приваты](komandy/privaty.md)
 * [Продажа и покупка](komandy/prodazha-i-pokupka.md)
-* [Особые чары](komandy/osobye-chary.md)
 * [Платные команды](komandy/platnye-komandy.md)
 * [Варпы](komandy/varpy.md)
 * [Чары](komandy/chary.md)
+* [Особые чары](komandy/osobye-chary.md)
 * [Разное](komandy/raznoe.md)
 
 ## 🗃 Плагины
