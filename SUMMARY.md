@@ -102,7 +102,7 @@
   * [Эфирность](kastomnye-chary/page-2/efirnost.md)
   * [Опыт](kastomnye-chary/page-2/opyt.md)
   * [Усиление рук](kastomnye-chary/page-2/usilenie-ruk.md)
-  * [Безсонница](kastomnye-chary/page-2/bezsonnica.md)
+  * [Бессонница](kastomnye-chary/page-2/bessonnica.md)
   * [Громовержец](kastomnye-chary/page-2/gromoverzhec.md)
   * [Оксигинез](kastomnye-chary/page-2/oksiginez.md)
   * [Тор](kastomnye-chary/page-2/tor.md)
