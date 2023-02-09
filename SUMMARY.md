@@ -93,7 +93,7 @@
 
 ## 🪄 Кастомные чары
 
-* [Простые чары](kastomnye-chary/page-2/README.md)
+* [⬜ Простые чары](kastomnye-chary/page-2/README.md)
   * [Удар](kastomnye-chary/page-2/udar.md)
   * [Перемешка](kastomnye-chary/page-2/peremeshka.md)
   * [Водяной](kastomnye-chary/page-2/vodyanoi.md)
@@ -111,6 +111,24 @@
   * [Безголовый](kastomnye-chary/page-2/bezgolovyi.md)
   * [Отталкивание](kastomnye-chary/page-2/ottalkivanie.md)
   * [Эпичность](kastomnye-chary/page-2/epichnost.md)
+* [🟩 Уникальные чары](kastomnye-chary/unikalnye-chary/README.md)
+  * [Жизнецвет](kastomnye-chary/unikalnye-chary/zhiznecvet.md)
+  * [Голод](kastomnye-chary/unikalnye-chary/golod.md)
+  * [Уничтожитель обсидиана](kastomnye-chary/unikalnye-chary/unichtozhitel-obsidiana.md)
+  * [Берсерк](kastomnye-chary/unikalnye-chary/berserk.md)
+  * [Подопечный](kastomnye-chary/unikalnye-chary/podopechnyi.md)
+  * [Проклятие](kastomnye-chary/unikalnye-chary/proklyatie.md)
+  * [СдвигКрая](kastomnye-chary/unikalnye-chary/sdvigkraya.md)
+  * [Пёрышко](kastomnye-chary/unikalnye-chary/pyoryshko.md)
+  * [Расплавленный](kastomnye-chary/unikalnye-chary/rasplavlennyi.md)
+  * [Хищник](kastomnye-chary/unikalnye-chary/khishnik.md)
+  * [Командир](kastomnye-chary/unikalnye-chary/komandir.md)
+  * [Самоуничтожение](kastomnye-chary/unikalnye-chary/samounichtozhenie.md)
+  * [Телепатия](kastomnye-chary/unikalnye-chary/telepatiya.md)
+  * [Прожора](kastomnye-chary/unikalnye-chary/prozhora.md)
+  * [Воришка опыта](kastomnye-chary/unikalnye-chary/vorishka-opyta.md)
+  * [Разносчик чумы](kastomnye-chary/unikalnye-chary/raznoschik-chumy.md)
+  * [Вирус](kastomnye-chary/unikalnye-chary/virus.md)
 
 ## 📙 Команды
 
