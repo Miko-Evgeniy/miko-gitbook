@@ -4,7 +4,7 @@
 
 * [💽 Сервер](README.md)
 * [👑 Привилегии](obshaya-informaciya/privilegii.md)
-* [📜Правила](obshaya-informaciya/pravila/README.md)
+* [📜 Правила](obshaya-informaciya/pravila/README.md)
   * [1. Общее](obshaya-informaciya/pravila/1.-obshee.md)
   * [2. Постройки](obshaya-informaciya/pravila/2.-postroiki.md)
   * [3. Игровой мир](obshaya-informaciya/pravila/3.-igrovoi-mir.md)
@@ -542,7 +542,6 @@
 * [Платные команды](komandy/platnye-komandy.md)
 * [Варпы](komandy/varpy.md)
 * [Чары](komandy/chary.md)
-* [Особые чары](komandy/osobye-chary.md)
 * [Разное](komandy/raznoe.md)
 
 ## 🗃 Плагины
