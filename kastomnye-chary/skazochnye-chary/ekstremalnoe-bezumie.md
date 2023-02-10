@@ -17,7 +17,7 @@
 Экстремальное безумие
 
 {% hint style="info" %}
-<mark style="color:purple;">Требуется Безумие VIII для применения</mark>
+Требуется Безумие VIII для применения
 {% endhint %}
 
 &#x20;
