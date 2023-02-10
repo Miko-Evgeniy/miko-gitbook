@@ -4,6 +4,14 @@
 
 * [💽 Сервер](README.md)
 * [👑 Привилегии](obshaya-informaciya/privilegii.md)
+* [📜Правила](obshaya-informaciya/pravila/README.md)
+  * [1. Общее](obshaya-informaciya/pravila/1.-obshee.md)
+  * [2. Постройки](obshaya-informaciya/pravila/2.-postroiki.md)
+  * [3. Игровой мир](obshaya-informaciya/pravila/3.-igrovoi-mir.md)
+  * [4. Гриферство](obshaya-informaciya/pravila/4.-griferstvo.md)
+  * [5. Общение в игровом чате](obshaya-informaciya/pravila/5.-obshenie-v-igrovom-chate.md)
+  * [6. Другое](obshaya-informaciya/pravila/6.-drugoe.md)
+  * [7. Правила и положение для модераторов/хелперов.](obshaya-informaciya/pravila/7.-pravila-i-polozhenie-dlya-moderatorov-khelperov..md)
 
 ## 🎮 Игровые моменты
 
@@ -93,7 +101,7 @@
 
 ## 🪄 Кастомные чары
 
-* [⬜ Простые чары](kastomnye-chary/page-2/README.md)
+* [Простые чары](kastomnye-chary/page-2/README.md)
   * [Удар](kastomnye-chary/page-2/udar.md)
   * [Перемешка](kastomnye-chary/page-2/peremeshka.md)
   * [Водяной](kastomnye-chary/page-2/vodyanoi.md)
