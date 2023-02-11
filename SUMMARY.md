@@ -364,7 +364,7 @@
 
 ## 🪄 Кастомные чары
 
-* [◻ Простые чары](kastomnye-chary/page-2/README.md)
+* [⬜ Простые чары](kastomnye-chary/page-2/README.md)
   * [Удар](kastomnye-chary/page-2/udar.md)
   * [Перемешка](kastomnye-chary/page-2/peremeshka.md)
   * [Водяной](kastomnye-chary/page-2/vodyanoi.md)
