@@ -342,7 +342,7 @@
   * [Ядро восхождения](igrovye-momenty/pitomcy/ascentcore.md)
   * [Слиток кристаллической матрицы](igrovye-momenty/pitomcy/crystal\_matrix\_ingot.md)
   * [Эссенция тьмы](igrovye-momenty/pitomcy/darkness.md)
-  * [Плоть демона](igrovye-momenty/pitomcy/demon\_flesh.md)
+  * [Плоть Гефеста](igrovye-momenty/pitomcy/demon\_flesh.md)
   * [Алмазная решетка](igrovye-momenty/pitomcy/diamond\_lattice.md)
   * [Ядро рассеивания](igrovye-momenty/pitomcy/diffusion\_core.md)
   * [Око восхождения](igrovye-momenty/pitomcy/eye\_projectile.md)
@@ -352,7 +352,7 @@
   * [Камень луны](igrovye-momenty/pitomcy/moonstone.md)
   * [Очищенный кристалл маны](igrovye-momenty/pitomcy/refained\_mana\_crystal2.md)
   * [Камень солнца](igrovye-momenty/pitomcy/sunstone.md)
-  * [Сердце Лилит](igrovye-momenty/pitomcy/sweet\_heart.md)
+  * [Сердце Феникса](igrovye-momenty/pitomcy/sweet\_heart.md)
 * [🏝 Генерации](igrovye-momenty/generacii/README.md)
   * [Верхний мир](igrovye-momenty/generacii/verkhnii-mir.md)
   * [Незер](igrovye-momenty/generacii/nezer.md)
@@ -364,7 +364,7 @@
 
 ## 🪄 Кастомные чары
 
-* [◻ Простые чары](kastomnye-chary/page-2/README.md)
+* [Простые чары](kastomnye-chary/page-2/README.md)
   * [Удар](kastomnye-chary/page-2/udar.md)
   * [Перемешка](kastomnye-chary/page-2/peremeshka.md)
   * [Водяной](kastomnye-chary/page-2/vodyanoi.md)
