@@ -17,7 +17,7 @@ coverY: 0
 
 #### _Крафт_
 
-<figure><img src="../../.gitbook/assets/Новый проект.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/orange_ore_block_result-x1.png" alt=""><figcaption></figcaption></figure>
 
 ## Использование
 
@@ -25,4 +25,4 @@ coverY: 0
 
 ## Как ингредиент при крафте
 
-<figure><img src="../../.gitbook/assets/Новый проект.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/orange_ore_ingot_result-multi.png" alt=""><figcaption></figcaption></figure>

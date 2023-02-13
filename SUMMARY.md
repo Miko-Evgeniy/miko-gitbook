@@ -86,10 +86,10 @@
   * [⚫ Тусклая эссенция](igrovye-momenty/essencii/tusklaya-essenciya.md)
   * [🟤 Таинственная эссенция](igrovye-momenty/essencii/tainstvennaya-essenciya.md)
   * [⚪ Эссенция холода](igrovye-momenty/essencii/essenciya-kholoda.md)
-* [👩🦲 Существа](igrovye-momenty/sushestva/README.md)
+* [🧑🦲 Существа](igrovye-momenty/sushestva/README.md)
   * [💀 Боссы](igrovye-momenty/sushestva/bossy/README.md)
-    * [Падший Рыцарь Огня](igrovye-momenty/sushestva/bossy/padshii-rycar-ognya.md)
-    * [Лилит](igrovye-momenty/sushestva/bossy/padshii-rycar-ognya-1.md)
+    * [🤺 Падший Рыцарь Огня](igrovye-momenty/sushestva/bossy/padshii-rycar-ognya.md)
+    * [😈 Лилит](igrovye-momenty/sushestva/bossy/padshii-rycar-ognya-1.md)
 * [🐶 Питомцы](igrovye-momenty/pitomcy/README.md)
   * [Модуль памяти 1 ур.](igrovye-momenty/pitomcy/256k.md)
   * [Модуль памяти 2 ур.](igrovye-momenty/pitomcy/16384k\_fluid.md)
@@ -357,7 +357,7 @@
   * [Сердце Лилит](igrovye-momenty/pitomcy/sweet\_heart.md)
 * [🏝 Генерации](igrovye-momenty/generacii/README.md)
   * [Верхний мир](igrovye-momenty/generacii/verkhnii-mir.md)
-  * [Незер](igrovye-momenty/generacii/nezer.md)
+  * [Нижний мир (Незер)](igrovye-momenty/generacii/nezer.md)
   * [Край](igrovye-momenty/generacii/krai.md)
 
 ## ⚒ Дополнительные крафты
