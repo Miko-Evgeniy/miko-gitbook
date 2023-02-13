@@ -7,21 +7,19 @@ coverY: 0
 
 
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ## Характеристики
 
-\+10 Броня
+\+6 Броня
 
 \+3 Твёрдость брони
 
 \+1 Сопротивление отбрасыванию
 
+## Способности
 
-
-#### _Способности_
-
-Шлем Пламени при надевании разблокирует способность №1
+Поножи Пламени при надевании разблокируют [_**Навык 3**_** – Адские сферы**](kosa-plameni.md#sposobnosti) **для предмета** [**Пылающая Коса**](kosa-plameni.md)****
 
 ## Получение
 

@@ -7,11 +7,11 @@ coverY: 0
 
 
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ## Характеристики
 
-\+10 Броня
+\+3 Броня
 
 \+3 Твёрдость брони
 
@@ -21,7 +21,7 @@ coverY: 0
 
 #### _Способности_
 
-Шлем Пламени при надевании разблокирует способность №1
+Ботинки Пламени при надевании разблокирует [_**Ультимейт-навык**_** – Коса адского пламени**](kosa-plameni.md#sposobnosti) **для предмета** [**Пылающая Коса**](kosa-plameni.md)**.**
 
 ## Получение
 
