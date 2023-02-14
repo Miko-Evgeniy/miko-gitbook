@@ -7,7 +7,7 @@ coverY: -234.63428174878555
 
 Материал, получаемый обжигом [сапфировой руды](../../rudy/sapfirovaya-ruda.md).
 
-<figure><img src="../../../.gitbook/assets/Новый проект (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/blue_ore_ingot (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Получение
 
