@@ -353,8 +353,9 @@
 * [🧑🦲 Существа](igrovye-momenty/sushestva/README.md)
   * [💀 Боссы](igrovye-momenty/sushestva/bossy/README.md)
     * [🤺 Падший Рыцарь Огня](igrovye-momenty/sushestva/bossy/padshii-rycar-ognya.md)
-    * [😈 Лилит](igrovye-momenty/sushestva/bossy/padshii-rycar-ognya-1.md)
+    * [👿 Лилит](igrovye-momenty/sushestva/bossy/padshii-rycar-ognya-1.md)
 * [🐶 Питомцы](igrovye-momenty/pitomcy/README.md)
+  * [😈 Дитя Лилит](igrovye-momenty/pitomcy/ditya-lilit.md)
 * [🏝 Генерации](igrovye-momenty/generacii/README.md)
   * [Верхний мир](igrovye-momenty/generacii/verkhnii-mir.md)
   * [Нижний мир (Незер)](igrovye-momenty/generacii/nezer.md)
@@ -362,7 +363,7 @@
 
 ## ⚒ Дополнительные крафты
 
-* [Untitled](dopolnitelnye-krafty/untitled.md)
+* [❓ Скоро](dopolnitelnye-krafty/untitled.md)
 
 ## 🪄 Кастомные чары
 
@@ -564,4 +565,4 @@
 
 ## 🗃 Плагины
 
-* [Page 1](plaginy/page-1.md)
+* [❓ Скоро](plaginy/page-1.md)
