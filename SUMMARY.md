@@ -352,8 +352,8 @@
   * [⚪ Эссенция холода](igrovye-momenty/essencii/essenciya-kholoda.md)
 * [🧑🦲 Существа](igrovye-momenty/sushestva/README.md)
   * [💀 Боссы](igrovye-momenty/sushestva/bossy/README.md)
-    * [🤺 Падший Рыцарь Огня](igrovye-momenty/sushestva/bossy/padshii-rycar-ognya.md)
-    * [👿 Лилит](igrovye-momenty/sushestva/bossy/padshii-rycar-ognya-1.md)
+    * [Падший Рыцарь Огня](igrovye-momenty/sushestva/bossy/padshii-rycar-ognya.md)
+    * [Лилит](igrovye-momenty/sushestva/bossy/padshii-rycar-ognya-1.md)
 * [🐶 Питомцы](igrovye-momenty/pitomcy/README.md)
   * [😈 Дитя Лилит](igrovye-momenty/pitomcy/ditya-lilit.md)
 * [🏝 Генерации](igrovye-momenty/generacii/README.md)
@@ -363,11 +363,11 @@
 
 ## ⚒ Дополнительные крафты
 
-* [❓ Скоро](dopolnitelnye-krafty/untitled.md)
+* [Скоро](dopolnitelnye-krafty/untitled.md)
 
 ## 🪄 Кастомные чары
 
-* [◻ Простые чары](kastomnye-chary/page-2/README.md)
+* [Простые чары](kastomnye-chary/page-2/README.md)
   * [Удар](kastomnye-chary/page-2/udar.md)
   * [Перемешка](kastomnye-chary/page-2/peremeshka.md)
   * [Водяной](kastomnye-chary/page-2/vodyanoi.md)
@@ -565,4 +565,4 @@
 
 ## 🗃 Плагины
 
-* [❓ Скоро](plaginy/page-1.md)
+* [Скоро](plaginy/page-1.md)
