@@ -86,7 +86,7 @@
   * [⚫ Тусклая эссенция](igrovye-momenty/essencii/tusklaya-essenciya.md)
   * [🟤 Таинственная эссенция](igrovye-momenty/essencii/tainstvennaya-essenciya.md)
   * [⚪ Эссенция холода](igrovye-momenty/essencii/essenciya-kholoda.md)
-* [🧑🦲 Существа](igrovye-momenty/sushestva/README.md)
+* [🦲 Существа](igrovye-momenty/sushestva/README.md)
   * [💀 Боссы](igrovye-momenty/sushestva/bossy/README.md)
     * [🤺 Падший Рыцарь Огня](igrovye-momenty/sushestva/bossy/padshii-rycar-ognya.md)
     * [👿 Лилит](igrovye-momenty/sushestva/bossy/padshii-rycar-ognya-1.md)
