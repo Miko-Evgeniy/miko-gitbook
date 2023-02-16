@@ -427,7 +427,7 @@
   * [Дымовая шашка](kastomnye-chary/elitnye-chary/dymovaya-shashka.md)
   * [Инфернал](kastomnye-chary/elitnye-chary/infernal.md)
   * [Удар По Голове](kastomnye-chary/elitnye-chary/udar-po-golove.md)
-  * [Ударная волна.](kastomnye-chary/elitnye-chary/udarnaya-volna.md)
+  * [Ударная волна](kastomnye-chary/elitnye-chary/udarnaya-volna.md)
   * [Вампиризм](kastomnye-chary/elitnye-chary/vampirizm.md)
   * [Отбрасыватель](kastomnye-chary/elitnye-chary/otbrasyvatel.md)
   * [Великий меч](kastomnye-chary/elitnye-chary/velikii-mech.md)
