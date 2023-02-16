@@ -456,7 +456,7 @@
   * [Сломанный](kastomnye-chary/maksimalnye-chary/slomannyi.md)
   * [Кукла](kastomnye-chary/maksimalnye-chary/kukla.md)
   * [Блок](kastomnye-chary/maksimalnye-chary/blok.md)
-  * [Детонация (добавить кд)](kastomnye-chary/maksimalnye-chary/detonaciya.md)
+  * [Детонация](kastomnye-chary/maksimalnye-chary/detonaciya.md)
   * [Уклонение](kastomnye-chary/maksimalnye-chary/uklonenie.md)
   * [Обезумевший](kastomnye-chary/maksimalnye-chary/obezumevshii.md)
   * [Хранитель //](kastomnye-chary/maksimalnye-chary/khranitel.md)
