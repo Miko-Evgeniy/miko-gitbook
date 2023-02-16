@@ -459,7 +459,7 @@
   * [Детонация](kastomnye-chary/maksimalnye-chary/detonaciya.md)
   * [Уклонение](kastomnye-chary/maksimalnye-chary/uklonenie.md)
   * [Обезумевший](kastomnye-chary/maksimalnye-chary/obezumevshii.md)
-  * [Хранитель //](kastomnye-chary/maksimalnye-chary/khranitel.md)
+  * [Хранитель](kastomnye-chary/maksimalnye-chary/khranitel.md)
   * [Аспект льда](kastomnye-chary/maksimalnye-chary/aspekt-lda.md)
   * [Имплант](kastomnye-chary/maksimalnye-chary/implant.md)
   * [Демоничность](kastomnye-chary/maksimalnye-chary/demonichnost.md)
