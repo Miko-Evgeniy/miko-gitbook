@@ -355,7 +355,7 @@
 * [🦲 Существа](igrovye-momenty/sushestva/README.md)
   * [💀 Боссы](igrovye-momenty/sushestva/bossy/README.md)
     * [🤺 Падший Рыцарь Огня](igrovye-momenty/sushestva/bossy/padshii-rycar-ognya.md)
-    * [👿 Дитя Лилит](igrovye-momenty/sushestva/bossy/ditya-lilit.md)
+    * [👿 Лилит](igrovye-momenty/sushestva/bossy/lilit.md)
 * [🐶 Питомцы](igrovye-momenty/pitomcy/README.md)
   * [😈 Дитя Лилит](igrovye-momenty/pitomcy/ditya-lilit.md)
 * [🏝 Генерации](igrovye-momenty/generacii/README.md)
