@@ -562,4 +562,4 @@
 
 ## 🗃 Плагины
 
-* [Page 1](plaginy/page-1.md)
+* [AdvancedChests](plaginy/page-1.md)
