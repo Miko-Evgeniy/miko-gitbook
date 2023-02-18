@@ -563,3 +563,6 @@
 ## 🗃 Плагины
 
 * [AdvancedChests](plaginy/page-1.md)
+* [AdvancedEnchantments](plaginy/advancedenchantments.md)
+* [Auto-Tune](plaginy/auto-tune.md)
+* [AutoComposter](plaginy/autocomposter.md)
