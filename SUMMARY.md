@@ -566,3 +566,8 @@
 * [AdvancedEnchantments](plaginy/advancedenchantments.md)
 * [Auto-Tune](plaginy/auto-tune.md)
 * [AutoComposter](plaginy/autocomposter.md)
+* [BottledExp](plaginy/bottledexp.md)
+* [ChestSort](plaginy/chestsort.md)
+* [ChestShop](plaginy/chestshop.md)
+* [DeadlyDisasters](plaginy/deadlydisasters.md)
+* [EcoPets](plaginy/ecopets.md)
