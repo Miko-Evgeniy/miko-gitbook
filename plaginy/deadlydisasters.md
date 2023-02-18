@@ -1,4 +1,4 @@
-# DeadlyDisasters
+# DeadlyDisasters(добавить список бедствий и уровни 1-5)
 
 ### Описание
 
