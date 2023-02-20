@@ -357,6 +357,8 @@
   * [💀 Боссы](igrovye-momenty/sushestva/bossy/README.md)
     * [🤺 Падший Рыцарь Огня](igrovye-momenty/sushestva/bossy/padshii-rycar-ognya.md)
     * [👿 Лилит](igrovye-momenty/sushestva/bossy/lilit.md)
+  * [👩🦱 Полезные НПС](igrovye-momenty/sushestva/poleznye-nps/README.md)
+    * [🎭 Смотрящая за тварями](igrovye-momenty/sushestva/poleznye-nps/smotryashaya-za-tvaryami.md)
 * [🐶 Питомцы](igrovye-momenty/pitomcy/README.md)
   * [😈 Дитя Лилит](igrovye-momenty/pitomcy/ditya-lilit.md)
 * [🏝 Генерации](igrovye-momenty/generacii/README.md)
