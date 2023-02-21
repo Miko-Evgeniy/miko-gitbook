@@ -573,7 +573,7 @@
 * [MCPets](plaginy/mcpets.md)
 * [HMCCosmetics](plaginy/hmccosmetics.md)
 * [ImageFrame](plaginy/imageframe.md)
-* [mcMMO(прописать)](plaginy/mcmmo-propisat.md)
+* [Adapt](plaginy/adapt.md)
 * [MyDog](plaginy/mydog.md)
 * [PlasmoVoice](plaginy/plasmovoice.md)
 * [ProjectKorra](plaginy/projectkorra.md)
