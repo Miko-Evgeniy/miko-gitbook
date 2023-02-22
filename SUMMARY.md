@@ -96,6 +96,7 @@
   * [Верхний мир](igrovye-momenty/generacii/verkhnii-mir.md)
   * [Нижний мир (Незер)](igrovye-momenty/generacii/nezer.md)
   * [Край](igrovye-momenty/generacii/krai.md)
+* [💼 Работа](igrovye-momenty/rabota.md)
 
 ## ⚒ Дополнительные крафты
 
@@ -167,13 +168,13 @@
   * [Инфернал](kastomnye-chary/elitnye-chary/infernal.md)
   * [Удар По Голове](kastomnye-chary/elitnye-chary/udar-po-golove.md)
   * [Ударная волна](kastomnye-chary/elitnye-chary/udarnaya-volna.md)
-  * [Вампиризм](kastomnye-chary/elitnye-chary/vampirizm.md)
   * [Отбрасыватель](kastomnye-chary/elitnye-chary/otbrasyvatel.md)
   * [Великий меч](kastomnye-chary/elitnye-chary/velikii-mech.md)
   * [Закаленный](kastomnye-chary/elitnye-chary/zakalennyi.md)
   * [Ракетный побег](kastomnye-chary/elitnye-chary/raketnyi-pobeg.md)
   * [Фокусник](kastomnye-chary/elitnye-chary/fokusnik.md)
   * [Угон](kastomnye-chary/elitnye-chary/ugon.md)
+  * [Вампиризм](kastomnye-chary/elitnye-chary/vampirizm.md)
 * [🟨 Максимальные чары](kastomnye-chary/maksimalnye-chary/README.md)
   * [Плантатор свёклы](kastomnye-chary/maksimalnye-chary/plantator-svyokly.md)
   * [Плантатор морковки](kastomnye-chary/maksimalnye-chary/plantator-morkovki.md)
@@ -301,4 +302,22 @@
 
 ## 🗃 Плагины
 
-* [❓ Скоро](plaginy/page-1.md)
+* [AdvancedChests](plaginy/page-1.md)
+* [AdvancedEnchantments](plaginy/advancedenchantments.md)
+* [Auto-Tune](plaginy/auto-tune.md)
+* [AutoComposter](plaginy/autocomposter.md)
+* [BottledExp](plaginy/bottledexp.md)
+* [ChestSort](plaginy/chestsort.md)
+* [ChestShop](plaginy/chestshop.md)
+* [DeadlyDisasters](plaginy/deadlydisasters.md)
+* [MCPets](plaginy/mcpets.md)
+* [HMCCosmetics](plaginy/hmccosmetics.md)
+* [ImageFrame](plaginy/imageframe.md)
+* [Adapt](plaginy/adapt.md)
+* [MyDog](plaginy/mydog.md)
+* [PlasmoVoice](plaginy/plasmovoice.md)
+* [ProjectKorra](plaginy/projectkorra.md)
+* [RealisticSeasons](plaginy/realisticseasons.md)
+* [Tamablefoxes](plaginy/tamablefoxes.md)
+* [UltimateClans V5](plaginy/ultimateclans-v5.md)
+* [Jobs](plaginy/jobs.md)
