@@ -357,6 +357,7 @@
   * [Верхний мир](igrovye-momenty/generacii/verkhnii-mir.md)
   * [Незер](igrovye-momenty/generacii/nezer.md)
   * [Край](igrovye-momenty/generacii/krai.md)
+* [💼 Работа](igrovye-momenty/rabota.md)
 
 ## ⚒ Дополнительные крафты
 
