@@ -581,3 +581,4 @@
 * [RealisticSeasons](plaginy/realisticseasons.md)
 * [Tamablefoxes](plaginy/tamablefoxes.md)
 * [UltimateClans V5](plaginy/ultimateclans-v5.md)
+* [Jobs](plaginy/jobs.md)

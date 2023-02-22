@@ -5,7 +5,7 @@ coverY: 0
 
 # 👕 Кираса Пламени
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ## Характеристики
 
