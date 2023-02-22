@@ -25,4 +25,4 @@ coverY: 0
 
 ## Как ингредиент при крафте
 
-<figure><img src="../../.gitbook/assets/Новый проект.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/raw_yellow_ore_result-multi.png" alt=""><figcaption></figcaption></figure>

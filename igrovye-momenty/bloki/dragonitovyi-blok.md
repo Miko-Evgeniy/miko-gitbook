@@ -26,3 +26,7 @@ coverY: 0
 ## Как ингредиент при крафте
 
 <figure><img src="../../.gitbook/assets/red_ore_ingot_result-multi.png" alt=""><figcaption></figcaption></figure>
+
+|                                                                                                    | Улучшенный драгонитовый блок                                                                   |
+| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| <p>Драгонитовый блок +<br><a href="../essencii/pylayushaya-essenciya.md">Пылающая эссенция</a></p> | <img src="../../.gitbook/assets/red_ore_block_improved.png" alt="Этап 1" data-size="original"> |
