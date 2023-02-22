@@ -5,9 +5,7 @@ coverY: 0
 
 # 👖 Поножи Пламени
 
-
-
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Характеристики
 
@@ -16,8 +14,6 @@ coverY: 0
 \+3 Твёрдость брони
 
 \+1 Сопротивление отбрасыванию
-
-
 
 #### _Способности_
 
