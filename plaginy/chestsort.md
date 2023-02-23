@@ -9,4 +9,4 @@
 * Сортировать двойным ЛКМ сундук
 * Сортировать двойным ЛКМ инвентарь&#x20;
 
-&#x20;                                         ![](<../.gitbook/assets/image (7).png>)
+&#x20;                                         ![](<../.gitbook/assets/plugins_avto_chest.png>)
