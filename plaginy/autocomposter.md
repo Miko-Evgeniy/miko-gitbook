@@ -11,6 +11,6 @@
 
 ### Крафт
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/plugins_composter.png>)
 
 {% embed url="https://youtu.be/EXflJVvDxVA" %}
