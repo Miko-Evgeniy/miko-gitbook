@@ -1,6 +1,6 @@
 # ✨ Набор Miko Nitro
 
-Набор косметических инструментов, который доступен только игроков, которые имею роль <mark style="color:purple;">Server Booster</mark> в [дискорд-сервере](https://discord.gg/Ms6aY7Wgye).
+Набор косметических инструментов, который доступен только для игроков, которые имеют роль <mark style="color:purple;">Server Booster</mark> в [дискорд-сервере](https://discord.gg/Ms6aY7Wgye).
 
 ## Как получить
 
