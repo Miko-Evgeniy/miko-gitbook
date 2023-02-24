@@ -354,9 +354,9 @@
   * [⚫ Тусклая эссенция](igrovye-momenty/essencii/tusklaya-essenciya.md)
   * [🟤 Таинственная эссенция](igrovye-momenty/essencii/tainstvennaya-essenciya.md)
   * [⚪ Эссенция холода](igrovye-momenty/essencii/essenciya-kholoda.md)
-* [🦲 Существа](igrovye-momenty/sushestva/README.md)
+* [Существа](igrovye-momenty/sushestva/README.md)
   * [💀 Боссы](igrovye-momenty/sushestva/bossy/README.md)
-    * [🤺 Падший Рыцарь Огня](igrovye-momenty/sushestva/bossy/padshii-rycar-ognya.md)
+    * [Падший Рыцарь Огня](igrovye-momenty/sushestva/bossy/padshii-rycar-ognya.md)
     * [👿 Лилит](igrovye-momenty/sushestva/bossy/lilit.md)
   * [👩🦱 Полезные НПС](igrovye-momenty/sushestva/poleznye-nps/README.md)
     * [🎭 Смотрящая за тварями](igrovye-momenty/sushestva/poleznye-nps/smotryashaya-za-tvaryami.md)
@@ -367,14 +367,15 @@
   * [Нижний мир (Незер)](igrovye-momenty/generacii/nezer.md)
   * [Край](igrovye-momenty/generacii/krai.md)
 * [💼 Работа](igrovye-momenty/rabota.md)
+* [💫 Магия](igrovye-momenty/magiya.md)
 
 ## ⚒ Дополнительные крафты
 
-* [❓ Скоро](dopolnitelnye-krafty/untitled.md)
+* [Скоро](dopolnitelnye-krafty/untitled.md)
 
 ## 🪄 Кастомные чары
 
-* [◻ Простые чары](kastomnye-chary/page-2/README.md)
+* [⬜ Простые чары](kastomnye-chary/page-2/README.md)
   * [Удар](kastomnye-chary/page-2/udar.md)
   * [Перемешка](kastomnye-chary/page-2/peremeshka.md)
   * [Водяной](kastomnye-chary/page-2/vodyanoi.md)
