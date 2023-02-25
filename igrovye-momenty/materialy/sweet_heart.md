@@ -9,7 +9,7 @@ coverY: -234.63428174878555
 
 ## Получение
 
-#### Дроп с [Лилит](../sushestva/bossy/padshii-rycar-ognya-1.md)
+#### Дроп с [Лилит](broken-reference)
 
 ## Использование
 
