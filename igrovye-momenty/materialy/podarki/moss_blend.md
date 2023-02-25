@@ -1,11 +1,11 @@
 ---
-cover: ../../.gitbook/assets/Без имени-2.jpg
+cover: ../../../.gitbook/assets/Без имени-2.jpg
 coverY: -234.63428174878555
 ---
 
 # Смесь мха
 
-<figure><img src="../../.gitbook/assets/moss_blend_128.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/moss_blend_128.png" alt=""><figcaption></figcaption></figure>
 
 ## Получение
 
@@ -16,7 +16,7 @@ coverY: -234.63428174878555
 
 #### [Осколок мха](moss_shard.md)
 
-| ㅤ                                                                                 |  Осколок мха                               |
-| --------------------------------------------------------------------------------- | ------------------------------------------ |
-| <p>Огненный порошок +<br><a href="moss_blend.md">Смесь мха</a> +<br>Ламинария</p> | ![](../../.gitbook/assets/moss\_shard.png) |
+| ㅤ                                                                                 |  Осколок мха                                  |
+| --------------------------------------------------------------------------------- | --------------------------------------------- |
+| <p>Огненный порошок +<br><a href="moss_blend.md">Смесь мха</a> +<br>Ламинария</p> | ![](../../../.gitbook/assets/moss\_shard.png) |
 
