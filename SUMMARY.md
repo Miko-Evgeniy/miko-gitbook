@@ -367,7 +367,8 @@
   * [Нижний мир (Незер)](igrovye-momenty/generacii/nezer.md)
   * [Край](igrovye-momenty/generacii/krai.md)
 * [💼 Работа](igrovye-momenty/rabota.md)
-* [💫 Магия](igrovye-momenty/magiya.md)
+* [💫 Магия](igrovye-momenty/magiya/README.md)
+  * [Светлый дух](igrovye-momenty/magiya/svetlyi-dukh.md)
 
 ## ⚒ Дополнительные крафты
 
