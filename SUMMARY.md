@@ -437,6 +437,7 @@
   * [Чи](igrovye-momenty/magiya/chi.md)
   * [Земля](igrovye-momenty/magiya/zemlya.md)
   * [Воздух](igrovye-momenty/magiya/vozdukh.md)
+  * [Аватар](igrovye-momenty/magiya/avatar.md)
 
 ## ⚒ Дополнительные крафты
 
