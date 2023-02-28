@@ -1,6 +1,6 @@
-# Осквернённый Громила
+# Осквернённый Лизун
 
-<figure><img src="../../../.gitbook/assets/em_corruptedbrute.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/em_darkpuker.gif" alt=""><figcaption></figcaption></figure>
 
 ## Спаун
 
@@ -19,6 +19,6 @@
 
 ## Дроп
 
-* [саронитовый страз](../../materialy/saronitovyi-straz.md) с шансом 40%
-* [сгусток шлака](../../materialy/sgustok-shlaka.md) с шансом 20%
-* [чумная кость](../../materialy/chumnaya-kost.md) с шансом 80%
+* [саронитовый страз](../../materialy/saronitovyi-straz.md) с шансом 9%
+* [сгусток шлака](../../materialy/sgustok-shlaka.md) с шансом 4%
+* [чумная кость](../../materialy/chumnaya-kost.md) с шансом 20%

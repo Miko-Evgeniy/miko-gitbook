@@ -437,6 +437,8 @@
     * [👿 Лилит](igrovye-momenty/sushestva/bossy/lilit.md)
   * [🧟 Мобы](igrovye-momenty/sushestva/moby/README.md)
     * [Осквернённый Громила](igrovye-momenty/sushestva/moby/oskvernyonnyi-gromila.md)
+    * [Осквернённый Рыскун](igrovye-momenty/sushestva/moby/oskvernyonnyi-ryskun.md)
+    * [Осквернённый Лизун](igrovye-momenty/sushestva/moby/oskvernyonnyi-lizun.md)
   * [👫 Полезные НПС](igrovye-momenty/sushestva/poleznye-nps/README.md)
     * [🎭 Смотрящая за тварями](igrovye-momenty/sushestva/poleznye-nps/smotryashaya-za-tvaryami.md)
 * [🐶 Питомцы](igrovye-momenty/pitomcy/README.md)
