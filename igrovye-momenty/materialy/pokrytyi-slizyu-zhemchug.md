@@ -11,7 +11,7 @@ coverY: -234.63428174878555
 
 #### _Мобы_
 
-_Может выпасть с_ [Осквернённого Громилы](../sushestva/moby/oskvernyonnyi-gromila.md) в количестве одной штуки.
+_Может выпасть с_ [Кладбищенской псины](../sushestva/bossy/mogilshik.md#kladbishenskaya-psina-1) в количестве одной штуки.
 
 ## Использование
 
