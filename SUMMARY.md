@@ -433,7 +433,7 @@
   * [⚪ Эссенция холода](igrovye-momenty/essencii/essenciya-kholoda.md)
 * [🦲 Существа](igrovye-momenty/sushestva/README.md)
   * [💀 Боссы](igrovye-momenty/sushestva/bossy/README.md)
-    * [🤺 Падший Рыцарь Огня](igrovye-momenty/sushestva/bossy/padshii-rycar-ognya.md)
+    * [🤺 Падший Опустошитель](igrovye-momenty/sushestva/bossy/padshii-opustoshitel.md)
     * [👿 Лилит](igrovye-momenty/sushestva/bossy/lilit.md)
   * [🧟 Мобы](igrovye-momenty/sushestva/moby/README.md)
     * [Осквернённый Громила](igrovye-momenty/sushestva/moby/oskvernyonnyi-gromila.md)
