@@ -450,6 +450,15 @@
   * [Нижний мир (Незер)](igrovye-momenty/generacii/nezer.md)
   * [Край](igrovye-momenty/generacii/krai.md)
 * [💼 Работа](igrovye-momenty/rabota.md)
+* [💫 Магия](igrovye-momenty/magiya/README.md)
+  * [Светлый дух](igrovye-momenty/magiya/svetlyi-dukh.md)
+  * [Тёмный дух](igrovye-momenty/magiya/tyomnyi-dukh.md)
+  * [Огонь](igrovye-momenty/magiya/ogon.md)
+  * [Вода](igrovye-momenty/magiya/voda.md)
+  * [Чи](igrovye-momenty/magiya/chi.md)
+  * [Земля](igrovye-momenty/magiya/zemlya.md)
+  * [Воздух](igrovye-momenty/magiya/vozdukh.md)
+  * [Аватар](igrovye-momenty/magiya/avatar.md)
 
 ## ⚒ Дополнительные крафты
 
