@@ -4,6 +4,8 @@
 
 _****_:game\_die: _**Шанс выпадения**_** - 9%**
 
+****
+
 _<mark style="color:blue;">**Agility:**</mark>_
 
 Передвигайтесь быстрее с помощью энергии.
@@ -13,6 +15,8 @@ _<mark style="color:blue;">**Agility:**</mark>_
 * Деш при клике Shift, рывок при клике мыши или fly при зажатии Shift
 
 :hourglass\_flowing\_sand: Перезарядка: 2 сек.
+
+
 
 _<mark style="color:blue;">**Float:**</mark>_
 
@@ -26,6 +30,8 @@ _<mark style="color:blue;">**Float:**</mark>_
 
 :hourglass\_flowing\_sand: Перезарядка: 7 сек.
 
+
+
 _<mark style="color:blue;">**Vanish:**</mark>_
 
 Спрячьтесь в воздухе и появитесь вдали.
@@ -35,6 +41,8 @@ _<mark style="color:blue;">**Vanish:**</mark>_
 * Shift + ЛКМ
 
 :hourglass\_flowing\_sand: Перезарядка: 7 сек.
+
+
 
 _<mark style="color:blue;">**Alleviate:**</mark>_
 
@@ -48,6 +56,8 @@ _<mark style="color:blue;">**Alleviate:**</mark>_
 
 :hourglass\_flowing\_sand: Перезарядка: 5 сек.
 
+
+
 _<mark style="color:blue;">**Enlightenment:**</mark>_
 
 Просветите себя и всех светлых духов, находящихся рядом, энергией, чтобы усилить всех (Сила источника IV, Ночное зрение IV, Скорость IV, Грация дельфина IV, Спешка IV на 12 сек.).
@@ -57,6 +67,8 @@ _<mark style="color:blue;">**Enlightenment:**</mark>_
 * Зажмите Shift, пока под Вами не появятся белые искры
 
 :hourglass\_flowing\_sand: Перезарядка: 10 сек.
+
+
 
 _<mark style="color:blue;">**LightBeam:**</mark>_
 
@@ -68,6 +80,8 @@ _<mark style="color:blue;">**LightBeam:**</mark>_
 
 :hourglass\_flowing\_sand: Перезарядка: 7 сек.
 
+
+
 _<mark style="color:blue;">**Orb:**</mark>_
 
 Поставьте шар положительной энергии, который наносит урон всем монстрам и игрокам.
@@ -77,6 +91,8 @@ _<mark style="color:blue;">**Orb:**</mark>_
 * Зажмите Shift
 
 :hourglass\_flowing\_sand: Перезарядка: 30 сек.
+
+
 
 _<mark style="color:blue;">**Safeguard:**</mark>_
 
@@ -88,6 +104,8 @@ _<mark style="color:blue;">**Safeguard:**</mark>_
 
 :hourglass\_flowing\_sand: Перезарядка: 14 сек.
 
+
+
 _<mark style="color:blue;">**Shelter:**</mark>_
 
 Создайте безопасную зону для себя или другого мага.
@@ -97,6 +115,8 @@ _<mark style="color:blue;">**Shelter:**</mark>_
 * Shift + ЛКМ
 
 :hourglass\_flowing\_sand: Перезарядка: 10 сек.
+
+
 
 _<mark style="color:blue;">**Wish:**</mark>_
 
