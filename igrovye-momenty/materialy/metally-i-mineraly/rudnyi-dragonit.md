@@ -7,7 +7,7 @@ coverY: 0
 
 Предмет, выпадающий в результате добывания [драгонитовой руды](../../rudy/dragonitovaya-ruda.md).
 
-<figure><img src="../../../.gitbook/assets/raw_red_ore.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/raw_red_ore (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Получение
 

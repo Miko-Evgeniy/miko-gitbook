@@ -7,7 +7,7 @@ coverY: -234.63428174878555
 
 Материал, получаемый обжигом [турмалиновой руды](../../rudy/turmalinovaya-ruda.md).
 
-<figure><img src="../../../.gitbook/assets/green_ore_ingot (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/green_ore_ingot.png" alt=""><figcaption></figcaption></figure>
 
 ## Получение
 

@@ -7,7 +7,7 @@ coverY: 0
 
 Это блок, равный 9 единицам [рудного сапфира](../materialy/metally-i-mineraly/rudnyi-sapfir.md).
 
-<figure><img src="../../.gitbook/assets/raw_blue_ore_block.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/raw_blue_ore_block (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Получение
 

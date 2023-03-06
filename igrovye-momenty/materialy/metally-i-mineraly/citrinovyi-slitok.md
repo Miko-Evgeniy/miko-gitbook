@@ -7,7 +7,7 @@ coverY: -234.63428174878555
 
 Материал, получаемый обжигом [цитриновой руды](../../rudy/citrinovaya-ruda.md).
 
-<figure><img src="../../../.gitbook/assets/yellow_ore_ingot.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/yellow_ore_ingot (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Получение
 
