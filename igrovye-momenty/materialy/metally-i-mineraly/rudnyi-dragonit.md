@@ -7,7 +7,7 @@ coverY: 0
 
 Предмет, выпадающий в результате добывания [драгонитовой руды](../../rudy/dragonitovaya-ruda.md).
 
-<figure><img src="../../../.gitbook/assets/raw_red_ore (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/raw_red_ore.png" alt=""><figcaption></figcaption></figure>
 
 ## Получение
 
@@ -16,7 +16,7 @@ coverY: 0
 Одна единица рудного драгонита выпадает в результате добывания [драгонитовой руды](../../rudy/dragonitovaya-ruda.md).
 
 {% hint style="info" %}
-Инструменты с зачарованием _**Удача**_** ** не будут работать на [драгонитовой руде](../../rudy/dragonitovaya-ruda.md)
+Инструменты с зачарованием _**Удача**_\*\* \*\* не будут работать на [драгонитовой руде](../../rudy/dragonitovaya-ruda.md)
 {% endhint %}
 
 {% hint style="info" %}
@@ -24,8 +24,6 @@ coverY: 0
 {% endhint %}
 
 #### _Крафт_
-
-
 
 <figure><img src="../../../.gitbook/assets/raw_red_ore_result-multi.png" alt=""><figcaption></figcaption></figure>
 

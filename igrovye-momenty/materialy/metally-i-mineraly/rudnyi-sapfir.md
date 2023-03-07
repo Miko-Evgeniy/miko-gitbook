@@ -7,7 +7,7 @@ coverY: 0
 
 Предмет, выпадающий в результате добывания [сапфировой руды](../../rudy/sapfirovaya-ruda.md).
 
-<figure><img src="../../../.gitbook/assets/raw_blue_ore.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/raw_blue_ore (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Получение
 
@@ -16,7 +16,7 @@ coverY: 0
 Одна единица рудного сапфира выпадает в результате добывания [сапфировой руды](../../rudy/sapfirovaya-ruda.md).
 
 {% hint style="info" %}
-Инструменты с зачарованием _**Удача**_** ** не будут работать на[ сапфировой руде](../../rudy/sapfirovaya-ruda.md)
+Инструменты с зачарованием _**Удача**_\*\* \*\* не будут работать на[ сапфировой руде](../../rudy/sapfirovaya-ruda.md)
 {% endhint %}
 
 {% hint style="info" %}
@@ -24,8 +24,6 @@ coverY: 0
 {% endhint %}
 
 #### _Крафт_
-
-
 
 <figure><img src="../../../.gitbook/assets/raw_blue_ore_result-multi.png" alt=""><figcaption></figcaption></figure>
 

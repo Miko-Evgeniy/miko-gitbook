@@ -7,7 +7,7 @@ coverY: 0
 
 Материал, использующийся для создания различных предметов. Один кусочек драгонита фактически является 1/9 частью [драгонитового слитка](dragonitovyi-slitok.md).
 
-<figure><img src="../../../.gitbook/assets/red_ore_nugget (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/red_ore_nugget.png" alt=""><figcaption></figcaption></figure>
 
 ## Получение
 
@@ -16,8 +16,6 @@ coverY: 0
 Кусочки драгонита могут выпасть при добыче [драгонитовой руды](../../rudy/dragonitovaya-ruda.md).
 
 #### _Крафт_
-
-
 
 <figure><img src="../../../.gitbook/assets/red_ore_nugget_result-multi.png" alt=""><figcaption></figcaption></figure>
 

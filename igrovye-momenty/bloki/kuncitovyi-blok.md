@@ -7,7 +7,7 @@ coverY: 0
 
 Блок, который можно получить из 9 [кунцитовых слитков](../materialy/metally-i-mineraly/kuncitovyi-slitok.md), и наоборот. Используется для компактного хранения [кунцитовых слитков](../materialy/metally-i-mineraly/kuncitovyi-slitok.md) и в постройках.
 
-<figure><img src="../../.gitbook/assets/pink_ore_block (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pink_ore_block.png" alt=""><figcaption></figcaption></figure>
 
 ## Получение
 

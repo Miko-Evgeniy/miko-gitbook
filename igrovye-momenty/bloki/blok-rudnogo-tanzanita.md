@@ -7,7 +7,7 @@ coverY: 0
 
 Это блок, равный 9 единицам [рудного танзанита](../materialy/metally-i-mineraly/rudnyi-tanzanit.md).
 
-<figure><img src="../../.gitbook/assets/raw_purple_ore_block (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/raw_purple_ore_block.png" alt=""><figcaption></figcaption></figure>
 
 ## Получение
 

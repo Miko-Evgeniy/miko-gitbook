@@ -2,6 +2,6 @@
 
 Уникальный набор брони, позволяющий применять дополнительные способности. Количество способностей изменяется в зависимости от количества предметов в наборе.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Пример полной экипировки</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Пример полной экипировки</p></figcaption></figure>
 
 {% embed url="https://youtu.be/b4Rq5750mg4" %}

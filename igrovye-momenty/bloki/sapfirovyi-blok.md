@@ -7,7 +7,7 @@ coverY: 0
 
 Блок, который можно получить из 9 [сапфировых слитков](../materialy/metally-i-mineraly/sapfirovyi-slitok.md), и наоборот. Используется для компактного хранения [сапфировых слитков](../materialy/metally-i-mineraly/sapfirovyi-slitok.md) и в постройках.
 
-<figure><img src="../../.gitbook/assets/blue_ore_block.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/blue_ore_block (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Получение
 

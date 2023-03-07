@@ -7,7 +7,7 @@ coverY: 0
 
 Материал, использующийся для создания различных предметов. Один кусочек сапфира фактически является 1/9 частью [сапфирового слитка](sapfirovyi-slitok.md).
 
-<figure><img src="../../../.gitbook/assets/blue_ore_nugget.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/blue_ore_nugget (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Получение
 
@@ -16,8 +16,6 @@ coverY: 0
 Кусочки сапфира могут выпасть при добыче [сапфировой руды](../../rudy/sapfirovaya-ruda.md).
 
 #### _Крафт_
-
-
 
 <figure><img src="../../../.gitbook/assets/blue_ore_nugget_result-multi.png" alt=""><figcaption></figcaption></figure>
 
