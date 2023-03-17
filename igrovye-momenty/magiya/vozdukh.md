@@ -14,6 +14,8 @@ _AirBlast:_
 
 Перезарядка: -
 
+{% embed url="https://www.youtube.com/shorts/Kh40eNf3dnc" %}
+
 _AirBurst:_
 
 Создаёт мощный порыв воздуха который отбрасывает врагов
