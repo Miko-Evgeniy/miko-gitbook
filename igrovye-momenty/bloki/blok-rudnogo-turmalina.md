@@ -7,7 +7,7 @@ coverY: 0
 
 Это блок, равный 9 единицам [рудного турмалина](../materialy/metally-i-mineraly/rudnyi-turmalin.md).
 
-<figure><img src="../../.gitbook/assets/raw_green_ore_block.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/raw_green_ore_block (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Получение
 
