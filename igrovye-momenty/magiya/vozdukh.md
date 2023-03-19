@@ -28,7 +28,7 @@ _**AirBurst:**_
 
 :hourglass\_flowing\_sand: Перезарядка: -
 
-
+{% embed url="https://www.youtube.com/shorts/Gm42UNt0jdQ" %}
 
 _**AirScooter:**_
 
