@@ -11,7 +11,7 @@ coverY: -234.63428174878555
 
 #### _Мобы_
 
-_Может выпасть с_ [Осквернённого Громилы](../sushestva/moby/oskvernyonnyi-gromila.md) , [Осквернённого Рыскуна](../sushestva/moby/oskvernyonnyi-ryskun.md) или [Осквернённого Лизуна](../sushestva/moby/oskvernyonnyi-lizun.md) в количестве одной штуки.
+_Может выпасть с_ [Осквернённого Громилы](../istoti/moby/oskvernyonnyi-gromila.md) , [Осквернённого Рыскуна](../istoti/moby/oskvernyonnyi-ryskun.md) или [Осквернённого Лизуна](../istoti/moby/oskvernyonnyi-lizun.md) в количестве одной штуки.
 
 ## Использование
 
