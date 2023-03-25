@@ -3,26 +3,26 @@ cover: ../../.gitbook/assets/Без имени-2.jpg
 coverY: 0
 ---
 
-# Блок рудного сапфира
+# Блок рудного сапфіру
 
-Это блок, равный 9 единицам [рудного сапфира](../materialy/metally-i-mineraly/rudnyi-sapfir.md).
+Це блок, що дорівнює 9 одиницям [рудного сапфіру](../materialy/metally-i-mineraly/rudnyi-sapfir.md).
 
 <figure><img src="../../.gitbook/assets/raw_blue_ore_block (1).png" alt=""><figcaption></figcaption></figure>
 
-## Получение
+## Отримання
 
-#### _Разрушение_
+#### _Руйнування_
 
-Блок рудного сапфира добывается только алмазной или незеритовой киркой.
+Блок рудного сапфіру видобувається лише алмазною чи незеритовою киркою.
 
 #### _Крафт_
 
 <figure><img src="../../.gitbook/assets/raw_blue_ore_block_result-x1.png" alt=""><figcaption></figcaption></figure>
 
-## Использование
+## Використання
 
-Блоки рудного сапфира используются для компактного хранения [рудного сапфира](../materialy/metally-i-mineraly/rudnyi-sapfir.md).
+Блоки рудного сапфіру використовуються для компактного зберігання [рудного сапфіру](../materialy/metally-i-mineraly/rudnyi-sapfir.md).
 
-## Как ингредиент при крафте
+## Як інгредієнт при крафті
 
 <figure><img src="../../.gitbook/assets/raw_blue_ore_result-multi.png" alt=""><figcaption></figcaption></figure>

@@ -3,26 +3,26 @@ cover: ../../.gitbook/assets/Без имени-2.jpg
 coverY: 0
 ---
 
-# Кунцитовый блок
+# Кунцитовий блок
 
-Блок, который можно получить из 9 [кунцитовых слитков](../materialy/metally-i-mineraly/kuncitovyi-slitok.md), и наоборот. Используется для компактного хранения [кунцитовых слитков](../materialy/metally-i-mineraly/kuncitovyi-slitok.md) и в постройках.
+Блок, який можна отримати з 9 [кунцитових злитків](../materialy/metally-i-mineraly/kuncitovyi-slitok.md), і навпаки. Використовується для компактного зберігання [кунцитових злитків](../materialy/metally-i-mineraly/kuncitovyi-slitok.md) та в будівлях.
 
 <figure><img src="../../.gitbook/assets/pink_ore_block (1).png" alt=""><figcaption></figcaption></figure>
 
-## Получение
+## Отримання
 
-#### _Разрушение_
+#### _Руйнування_
 
-Кунцитовый блок добывается только алмазной или незеритовой киркой.
+Кунцитовий блок видобувається лише алмазною чи незеритовою киркою.
 
 #### _Крафт_
 
 <figure><img src="../../.gitbook/assets/pink_ore_block_result-x1.png" alt=""><figcaption></figcaption></figure>
 
-## Использование
+## Використання
 
-Кунцитовый блок можно превратить в [кунцитовые слитки](../materialy/metally-i-mineraly/kuncitovyi-slitok.md).
+Кунцитовий блок можна перетворити на [кунцитові зливки](../materialy/metally-i-mineraly/kuncitovyi-slitok.md).
 
-## Как ингредиент при крафте
+## Як інгредієнт при крафті
 
 <figure><img src="../../.gitbook/assets/pink_ore_ingot_result-multi.png" alt=""><figcaption></figcaption></figure>

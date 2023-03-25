@@ -3,26 +3,26 @@ cover: ../../.gitbook/assets/Без имени-2.jpg
 coverY: 0
 ---
 
-# Блок рудного цитрина
+# Блок рудного цитрину
 
-Это блок, равный 9 единицам [рудного цитрина](../materialy/metally-i-mineraly/rudnyi-citrin.md).
+Це блок, що дорівнює 9 одиницям [рудного цитрину](../materialy/metally-i-mineraly/rudnyi-citrin.md).
 
 <figure><img src="../../.gitbook/assets/raw_yellow_ore_block.png" alt=""><figcaption></figcaption></figure>
 
-## Получение
+## Отримання
 
-#### _Разрушение_
+#### _Руйнування_
 
-Блок рудного цитрина добывается только алмазной или незеритовой киркой.
+Блок рудного цитрину видобувається лише алмазною чи незеритової киркою.
 
 #### _Крафт_
 
 <figure><img src="../../.gitbook/assets/raw_yellow_ore_block_result-x1.png" alt=""><figcaption></figcaption></figure>
 
-## Использование
+## Використання
 
-Блоки рудного цитрина используются для компактного хранения [рудного цитрина](../materialy/metally-i-mineraly/rudnyi-citrin.md).
+Блоки рудного цитрину використовуються для компактного зберігання [рудного цитрину](../materialy/metally-i-mineraly/rudnyi-citrin.md).
 
-## Как ингредиент при крафте
+## Як інгредієнт при крафті
 
 <figure><img src="../../.gitbook/assets/raw_yellow_ore_result-multi.png" alt=""><figcaption></figcaption></figure>

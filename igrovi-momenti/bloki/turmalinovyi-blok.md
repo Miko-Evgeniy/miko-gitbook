@@ -3,26 +3,26 @@ cover: ../../.gitbook/assets/Без имени-2.jpg
 coverY: 0
 ---
 
-# Турмалиновый блок
+# Турмаліновий блок
 
-Блок, который можно получить из 9 [турмалиновых слитков](../materialy/metally-i-mineraly/turmalinovyi-slitok.md), и наоборот. Используется для компактного хранения [турмалиновых слитков](../materialy/metally-i-mineraly/turmalinovyi-slitok.md) и в постройках.
+Блок, який можна отримати з 9 [турмалінових злитків](../materialy/metally-i-mineraly/turmalinovyi-slitok.md), і навпаки. Використовується для компактного зберігання [турмалінових злитків](../materialy/metally-i-mineraly/turmalinovyi-slitok.md) та в будівлях.
 
 <figure><img src="../../.gitbook/assets/green_ore_block.png" alt=""><figcaption></figcaption></figure>
 
-## Получение
+## Отримання
 
-#### _Разрушение_
+#### _Руйнування_
 
-Турмалиновый блок добывается только алмазной или незеритовой киркой.
+Турмаліновий блок видобувається лише алмазною чи незеритовою киркою.
 
 #### _Крафт_
 
 <figure><img src="../../.gitbook/assets/green_ore_block_result-x1.png" alt=""><figcaption></figcaption></figure>
 
-## Использование
+## Використання
 
-Турмалиновый блок можно превратить в [турмалиновые слитки](../materialy/metally-i-mineraly/turmalinovyi-slitok.md).
+Турмаліновий блок можна перетворити на [турмалінові зливки](../materialy/metally-i-mineraly/turmalinovyi-slitok.md).
 
-## Как ингредиент при крафте
+## Як інгредієнт при крафті
 
 <figure><img src="../../.gitbook/assets/green_ore_ingot_result-multi.png" alt=""><figcaption></figcaption></figure>

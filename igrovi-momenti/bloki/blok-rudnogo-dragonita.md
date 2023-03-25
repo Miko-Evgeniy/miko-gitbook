@@ -3,26 +3,26 @@ cover: ../../.gitbook/assets/Без имени-2.jpg
 coverY: 0
 ---
 
-# Блок рудного драгонита
+# Блок рудного драгоніту
 
-Это блок, равный 9 единицам [рудного драгонита](../materialy/metally-i-mineraly/rudnyi-dragonit.md).
+Це блок, що дорівнює 9 одиницям [рудного драгоніту](../materialy/metally-i-mineraly/rudnyi-dragonit.md).
 
 <figure><img src="../../.gitbook/assets/raw_red_ore_block (1).png" alt=""><figcaption></figcaption></figure>
 
-## Получение
+## Отримання
 
-#### _Разрушение_
+#### _Руйнування_
 
-Блок рудного драгонита добывается только алмазной или незеритовой киркой.
+Блок рудного драгоніту видобувається лише алмазною чи незеритовою киркою.
 
 #### _Крафт_
 
 <figure><img src="../../.gitbook/assets/raw_red_ore_block_result-x1.png" alt=""><figcaption></figcaption></figure>
 
-## Использование
+## Використання
 
-Блоки рудного драгонита используются для компактного хранения [рудного драгонита](../materialy/metally-i-mineraly/rudnyi-dragonit.md).
+Блоки рудного драгоніту використовуються для компактного зберігання [рудного драгоніту](../materialy/metally-i-mineraly/rudnyi-dragonit.md).
 
-## Как ингредиент при крафте
+## Як інгредієнт при крафті
 
 <figure><img src="../../.gitbook/assets/raw_red_ore_result-multi.png" alt=""><figcaption></figcaption></figure>

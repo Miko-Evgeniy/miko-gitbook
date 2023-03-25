@@ -3,26 +3,26 @@ cover: ../../.gitbook/assets/Без имени-2.jpg
 coverY: 0
 ---
 
-# Блок рудного турмалина
+# Блок рудного турмаліну
 
-Это блок, равный 9 единицам [рудного турмалина](../materialy/metally-i-mineraly/rudnyi-turmalin.md).
+Це блок, що дорівнює 9 одиницям [рудного турмаліну](../materialy/metally-i-mineraly/rudnyi-turmalin.md).
 
 <figure><img src="../../.gitbook/assets/raw_green_ore_block (1).png" alt=""><figcaption></figcaption></figure>
 
-## Получение
+## Отримання
 
-#### _Разрушение_
+#### _Руйнування_
 
-Блок рудного турмалина добывается только алмазной или незеритовой киркой.
+Блок рудного турмаліну видобувається лише алмазною чи незеритовою киркою.
 
 #### _Крафт_
 
 <figure><img src="../../.gitbook/assets/raw_green_ore_block_result-x1.png" alt=""><figcaption></figcaption></figure>
 
-## Использование
+## Використання
 
-Блоки рудного турмалина используются для компактного хранения [рудного турмалина](../materialy/metally-i-mineraly/rudnyi-turmalin.md).
+Блоки рудного турмаліну використовуються для компактного зберігання [рудного турмаліну](../materialy/metally-i-mineraly/rudnyi-turmalin.md).
 
-## Как ингредиент при крафте
+## Як інгредієнт при крафті
 
 <figure><img src="../../.gitbook/assets/raw_green_ore_result-multi.png" alt=""><figcaption></figcaption></figure>

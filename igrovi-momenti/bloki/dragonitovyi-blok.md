@@ -3,30 +3,30 @@ cover: ../../.gitbook/assets/Без имени-2.jpg
 coverY: 0
 ---
 
-# Драгонитовый блок
+# Драгонітовий блок
 
-Блок, который можно получить из 9 [драгонитовых слитков](../materialy/metally-i-mineraly/dragonitovyi-slitok.md), и наоборот. Используется для компактного хранения [драгонитовых слитков](../materialy/metally-i-mineraly/dragonitovyi-slitok.md) и в постройках.
+Блок, який можна отримати з 9 [драгонітових злитків](../materialy/metally-i-mineraly/dragonitovyi-slitok.md), і навпаки. Використовується для компактного зберігання [драгонітових злитків](../materialy/metally-i-mineraly/dragonitovyi-slitok.md) та в будівлях.
 
 <figure><img src="../../.gitbook/assets/red_ore_block.png" alt=""><figcaption></figcaption></figure>
 
-## Получение
+## Отримання
 
-#### _Разрушение_
+#### _Руйнування_
 
-Драгонитовый блок добывается только алмазной или незеритовой киркой.
+Драгонітовий блок видобувається лише алмазною або незеритовою киркою.
 
 #### _Крафт_
 
 <figure><img src="../../.gitbook/assets/red_ore_block_result-x1.png" alt=""><figcaption></figcaption></figure>
 
-## Использование
+## Використання
 
-Драгонитовый блок можно превратить в [драгонитовые слитки](../materialy/metally-i-mineraly/dragonitovyi-slitok.md).
+Драгонітовий блок можна перетворити на [драгонітові зливки](../materialy/metally-i-mineraly/dragonitovyi-slitok.md).
 
-## Как ингредиент при крафте
+## Як інгредієнт при крафті
 
 <figure><img src="../../.gitbook/assets/red_ore_ingot_result-multi.png" alt=""><figcaption></figcaption></figure>
 
-|                                                                                                    | Улучшенный драгонитовый блок                                                                   |
+|                                                                                                    | Покращений драгонітовий блок                                                                   |
 | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| <p>Драгонитовый блок +<br><a href="../essencii/pylayushaya-essenciya.md">Пылающая эссенция</a></p> | <img src="../../.gitbook/assets/red_ore_block_improved.png" alt="Этап 1" data-size="original"> |
+| <p>Драгонітовий блок +<br><a href="../essencii/pylayushaya-essenciya.md">Палаюча есенція</a></p>   | <img src="../../.gitbook/assets/red_ore_block_improved.png" alt="Етап 1" data-size="original"> |

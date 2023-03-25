@@ -3,26 +3,26 @@ cover: ../../.gitbook/assets/Без имени-2.jpg
 coverY: 0
 ---
 
-# Сапфировый блок
+# Сапфіровий блок
 
-Блок, который можно получить из 9 [сапфировых слитков](../materialy/metally-i-mineraly/sapfirovyi-slitok.md), и наоборот. Используется для компактного хранения [сапфировых слитков](../materialy/metally-i-mineraly/sapfirovyi-slitok.md) и в постройках.
+Блок, який можна отримати з 9 [сапфірових злитків](../materialy/metally-i-mineraly/sapfirovyi-slitok.md), і навпаки. Використовується для компактного зберігання [сапфірових злитків](../materialy/metally-i-mineraly/sapfirovyi-slitok.md) та в будівлях.
 
 <figure><img src="../../.gitbook/assets/blue_ore_block (1).png" alt=""><figcaption></figcaption></figure>
 
-## Получение
+## Отримання
 
-#### _Разрушение_
+#### _Руйнування_
 
-Сапфировый блок добывается только алмазной или незеритовой киркой.
+Сапфіровий блок видобувається лише алмазною чи незеритовою киркою.
 
 #### _Крафт_
 
 <figure><img src="../../.gitbook/assets/blue_ore_block_result-x1.png" alt=""><figcaption></figcaption></figure>
 
-## Использование
+## Використання
 
-Сапфировый блок можно превратить в [сапфировые слитки](../materialy/metally-i-mineraly/sapfirovyi-slitok.md).
+Сапфіровий блок можна перетворити на [сапфірові зливки](../materialy/metally-i-mineraly/sapfirovyi-slitok.md).
 
-## Как ингредиент при крафте
+## Як інгредієнт при крафті
 
 <figure><img src="../../.gitbook/assets/blue_ore_ingot_result-multi.png" alt=""><figcaption></figcaption></figure>

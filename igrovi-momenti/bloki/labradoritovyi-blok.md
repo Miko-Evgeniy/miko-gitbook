@@ -3,26 +3,26 @@ cover: ../../.gitbook/assets/Без имени-2.jpg
 coverY: 0
 ---
 
-# Лабрадоритовый блок
+# Лабрадоритовий блок
 
-Блок, который можно получить из 9 [лабрадоритовых слитков](../materialy/metally-i-mineraly/labradoritovyi-slitok.md), и наоборот. Используется для компактного хранения [лабрадоритовых слитков](../materialy/metally-i-mineraly/labradoritovyi-slitok.md) и в постройках.
+Блок, який можна отримати з 9 [лабрадоритових злитків](../materialy/metally-i-mineraly/labradoritovyi-slitok.md), і навпаки. Використовується для компактного зберігання [лабрадоритових злитків](../materialy/metally-i-mineraly/labradoritovyi-slitok.md) та в будівлях.
 
 <figure><img src="../../.gitbook/assets/silver_ore_block.png" alt=""><figcaption></figcaption></figure>
 
-## Получение
+## Отримання
 
-#### _Разрушение_
+#### _Руйнування_
 
-Лабрадоритовый блок добывается только алмазной или незеритовой киркой.
+Лабрадоритовий блок видобувається лише алмазною чи незеритовою киркою.
 
 #### _Крафт_
 
 <figure><img src="../../.gitbook/assets/silver_ore_block_result-x1.png" alt=""><figcaption></figcaption></figure>
 
-## Использование
+## Використання
 
-Лабрадоритовый блок можно превратить в [лабрадоритовые слитки](../materialy/metally-i-mineraly/labradoritovyi-slitok.md).
+Лабрадоритовий блок можна перетворити на [лабрадоритові зливки](../materialy/metally-i-mineraly/labradoritovyi-slitok.md).
 
-## Как ингредиент при крафте
+## Як інгредієнт при крафті
 
 <figure><img src="../../.gitbook/assets/silver_ore_ingot_result-multi.png" alt=""><figcaption></figcaption></figure>

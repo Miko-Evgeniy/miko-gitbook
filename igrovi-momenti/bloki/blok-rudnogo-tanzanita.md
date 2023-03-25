@@ -3,26 +3,26 @@ cover: ../../.gitbook/assets/Без имени-2.jpg
 coverY: 0
 ---
 
-# Блок рудного танзанита
+# Блок рудного танзаніту
 
-Это блок, равный 9 единицам [рудного танзанита](../materialy/metally-i-mineraly/rudnyi-tanzanit.md).
+Це блок, що дорівнює 9 одиницям [рудного танзаніту](../materialy/metally-i-mineraly/rudnyi-tanzanit.md).
 
 <figure><img src="../../.gitbook/assets/raw_purple_ore_block (1).png" alt=""><figcaption></figcaption></figure>
 
-## Получение
+## Отримання
 
-#### _Разрушение_
+#### _Руйнування_
 
-Блок рудного танзанита добывается только алмазной или незеритовой киркой.
+Блок рудного танзаніту видобувається лише алмазною чи незеритовою киркою.
 
 #### _Крафт_
 
 <figure><img src="../../.gitbook/assets/raw_purple_ore_block_result-x1.png" alt=""><figcaption></figcaption></figure>
 
-## Использование
+## Використання
 
-Блоки рудного танзанита используются для компактного хранения [рудного танзанита](../materialy/metally-i-mineraly/rudnyi-tanzanit.md).
+Блоки танзаніту використовуються для компактного зберігання [рудного танзаніту](../materialy/metally-i-mineraly/rudnyi-tanzanit.md).
 
-## Как ингредиент при крафте
+## Як інгредієнт при крафті
 
 <figure><img src="../../.gitbook/assets/raw_purple_ore_result-multi.png" alt=""><figcaption></figcaption></figure>

@@ -3,26 +3,26 @@ cover: ../../.gitbook/assets/Без имени-2.jpg
 coverY: 0
 ---
 
-# Танзанитовый блок
+# Танзанітовий блок
 
-Блок, который можно получить из 9 [танзанитовых слитков](../materialy/metally-i-mineraly/tanzanitovyi-slitok.md), и наоборот. Используется для компактного хранения [танзанитовых слитков](../materialy/metally-i-mineraly/tanzanitovyi-slitok.md) и в постройках.
+Блок, який можна отримати з 9 [танзанітових злитків](../materialy/metally-i-mineraly/tanzanitovyi-slitok.md), і навпаки. Використовується для компактного зберігання [танзанітових злитків](../materialy/metally-i-mineraly/tanzanitovyi-slitok.md) та в будівлях.
 
 <figure><img src="../../.gitbook/assets/purple_ore_block.png" alt=""><figcaption></figcaption></figure>
 
-## Получение
+## Отримання
 
-#### _Разрушение_
+#### _Руйнування_
 
-Танзанитовый блок добывается только алмазной или незеритовой киркой.
+Танзанітовий блок видобувається тільки алмазною або незеритової киркою.
 
 #### _Крафт_
 
 <figure><img src="../../.gitbook/assets/purple_ore_ingot_result-multi.png" alt=""><figcaption></figcaption></figure>
 
-## Использование
+## Використання
 
-Танзанитовый блок можно превратить в [танзанитовые слитки](../materialy/metally-i-mineraly/tanzanitovyi-slitok.md).
+Танзанітовий блок можна перетворити на [танзанітові зливки](../materialy/metally-i-mineraly/tanzanitovyi-slitok.md).
 
-## Как ингредиент при крафте
+## Як інгредієнт при крафті
 
 <figure><img src="../../.gitbook/assets/purple_ore_block_result-x1.png" alt=""><figcaption></figcaption></figure>

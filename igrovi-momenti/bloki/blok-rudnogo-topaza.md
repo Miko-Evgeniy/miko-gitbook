@@ -3,26 +3,26 @@ cover: ../../.gitbook/assets/Без имени-2.jpg
 coverY: 0
 ---
 
-# Блок рудного топаза
+# Блок рудного топазу
 
-Это блок, равный 9 единицам [рудного топаза](../materialy/metally-i-mineraly/rudnyi-topaz.md).
+Це блок, що дорівнює 9 одиницям [рудного топаза](../materialy/metally-i-mineraly/rudnyi-topaz.md).
 
 <figure><img src="../../.gitbook/assets/raw_orange_ore_block.png" alt=""><figcaption></figcaption></figure>
 
-## Получение
+## Отримання
 
-#### _Разрушение_
+#### _Руйнування_
 
-Блок рудного топаза добывается только алмазной или незеритовой киркой.
+Блок рудного топаза видобувається лише алмазною чи незеритової киркою.
 
 #### _Крафт_
 
 <figure><img src="../../.gitbook/assets/raw_orange_ore_block_result-x1.png" alt=""><figcaption></figcaption></figure>
 
-## Использование
+## Використання
 
-Блоки рудного топаза используются для компактного хранения [рудного топаза](../materialy/metally-i-mineraly/rudnyi-topaz.md).
+Блоки рудного топазу використовуються для компактного зберігання [рудного топазу](../materialy/metally-i-mineraly/rudnyi-topaz.md).
 
-## Как ингредиент при крафте
+## Як інгредієнт при крафті
 
 <figure><img src="../../.gitbook/assets/raw_orange_ore_result-multi.png" alt=""><figcaption></figcaption></figure>

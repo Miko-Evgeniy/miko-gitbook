@@ -3,26 +3,26 @@ cover: ../../.gitbook/assets/Без имени-2.jpg
 coverY: 0
 ---
 
-# Блок рудного кунцита
+# Блок рудного кунциту
 
-Это блок, равный 9 единицам [рудного кунцита](../materialy/metally-i-mineraly/rudnyi-kuncit.md).
+Це блок, що дорівнює 9 одиницям [рудного кунциту](../materialy/metally-i-mineraly/rudnyi-kuncit.md).
 
 <figure><img src="../../.gitbook/assets/raw_pink_ore_block (1).png" alt=""><figcaption></figcaption></figure>
 
-## Получение
+## Отримання
 
-#### _Разрушение_
+#### _Руйнування_
 
-Блок рудного кунцита добывается только алмазной или незеритовой киркой.
+Блок рудного кунциту видобувається лише алмазною чи незеритовою киркою.
 
 #### _Крафт_
 
 <figure><img src="../../.gitbook/assets/raw_pink_ore_block_result-x1.png" alt=""><figcaption></figcaption></figure>
 
-## Использование
+## Використання
 
-Блоки рудного кунцита используются для компактного хранения [рудного кунцита](../materialy/metally-i-mineraly/rudnyi-kuncit.md).
+Блоки рудного кунциту використовуються для компактного зберігання [рудного кунциту](../materialy/metally-i-mineraly/rudnyi-kuncit.md).
 
-## Как ингредиент при крафте
+## Як інгредієнт при крафті
 
 <figure><img src="../../.gitbook/assets/raw_pink_ore_result-multi.png" alt=""><figcaption></figcaption></figure>
