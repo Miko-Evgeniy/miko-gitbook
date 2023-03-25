@@ -40,7 +40,7 @@ _**AirScooter:**_
 
 :hourglass\_flowing\_sand: Перезарядка: 6 сек.
 
-
+{% embed url="https://www.youtube.com/shorts/SB2F7MAKaEI" %}
 
 _**AirShield:**_
 
@@ -52,7 +52,7 @@ _**AirShield:**_
 
 :hourglass\_flowing\_sand: Перезарядка: -
 
-
+{% embed url="https://www.youtube.com/shorts/TEispR7D66M" %}
 
 _**AirSpout:**_
 
