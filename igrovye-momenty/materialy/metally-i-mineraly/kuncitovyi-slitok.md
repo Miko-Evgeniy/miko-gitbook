@@ -7,7 +7,7 @@ coverY: -234.63428174878555
 
 Материал, получаемый обжигом [кунцитовой руды](../../rudy/kuncitovaya-ruda.md).
 
-<figure><img src="../../../.gitbook/assets/pink_ore_ingot (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/pink_ore_ingot.png" alt=""><figcaption></figcaption></figure>
 
 ## Получение
 

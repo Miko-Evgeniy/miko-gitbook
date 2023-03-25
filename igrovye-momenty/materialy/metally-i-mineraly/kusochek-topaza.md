@@ -7,7 +7,7 @@ coverY: 0
 
 Материал, использующийся для создания различных предметов. Один кусочек топаза фактически является 1/9 частью [топазового слитка](topazovyi-slitok.md).
 
-<figure><img src="../../../.gitbook/assets/orange_ore_nugget.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/orange_ore_nugget (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Получение
 

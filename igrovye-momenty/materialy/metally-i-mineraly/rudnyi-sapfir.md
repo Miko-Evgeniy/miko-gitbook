@@ -7,7 +7,7 @@ coverY: 0
 
 Предмет, выпадающий в результате добывания [сапфировой руды](../../rudy/sapfirovaya-ruda.md).
 
-<figure><img src="../../../.gitbook/assets/raw_blue_ore.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/raw_blue_ore (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Получение
 

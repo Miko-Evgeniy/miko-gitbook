@@ -9,7 +9,7 @@ coverY: -234.63428174878555
 
 ## Получение
 
-#### Дроп с [Лилит](broken-reference)
+#### Дроп с [Лилит](https://github.com/Miko-Evgeniy/miko-gitbook/blob/main/igrovye-momenty/materialy/broken-reference/README.md)
 
 ## Использование
 

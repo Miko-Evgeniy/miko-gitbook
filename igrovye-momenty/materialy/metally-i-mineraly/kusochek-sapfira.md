@@ -7,7 +7,7 @@ coverY: 0
 
 Материал, использующийся для создания различных предметов. Один кусочек сапфира фактически является 1/9 частью [сапфирового слитка](sapfirovyi-slitok.md).
 
-<figure><img src="../../../.gitbook/assets/blue_ore_nugget.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/blue_ore_nugget (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Получение
 

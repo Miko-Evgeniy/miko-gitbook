@@ -7,7 +7,7 @@ coverY: -234.63428174878555
 
 Материал, получаемый обжигом [драгонитовой руды](../../rudy/dragonitovaya-ruda.md).
 
-<figure><img src="../../../.gitbook/assets/red_ore_ingot (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/red_ore_ingot.png" alt=""><figcaption></figcaption></figure>
 
 ## Получение
 
