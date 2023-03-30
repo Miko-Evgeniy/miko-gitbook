@@ -4,6 +4,8 @@
 
 :game\_die: _**Шанс выпадения стихии**_ - 8%
 
+
+
 _<mark style="color:blue;">**Agility:**</mark>_
 
 Передвигайтесь быстрее с помощью энергии.
@@ -13,6 +15,8 @@ _<mark style="color:blue;">**Agility:**</mark>_
 * Деш при клике Shift, рывок при клике мыши или fly при зажатии Shift
 
 :hourglass\_flowing\_sand: Перезарядка: 2 сек.
+
+
 
 _<mark style="color:blue;">**Float:**</mark>_
 
@@ -26,6 +30,8 @@ _<mark style="color:blue;">**Float:**</mark>_
 
 :hourglass\_flowing\_sand: Перезарядка: 7 сек.
 
+
+
 _<mark style="color:blue;">**Vanish:**</mark>_
 
 Спрячьтесь в воздухе и появитесь вдали.
@@ -35,6 +41,8 @@ _<mark style="color:blue;">**Vanish:**</mark>_
 * Shift + ЛКМ
 
 :hourglass\_flowing\_sand: Перезарядка: 7 сек.
+
+
 
 _<mark style="color:blue;">**Corruption:**</mark>_
 
@@ -46,6 +54,8 @@ _<mark style="color:blue;">**Corruption:**</mark>_
 
 :hourglass\_flowing\_sand: Перезарядка: 12 сек.
 
+
+
 _<mark style="color:blue;">**DarkBeam:**</mark>_
 
 Направляя всю хранимую энергию в телах темных духов, они могут выпустить её в форме смертельного луча.
@@ -55,6 +65,8 @@ _<mark style="color:blue;">**DarkBeam:**</mark>_
 * Для использования, нажмите Shift пока не увидите фиолетовые частицы и нажмите ударить
 
 :hourglass\_flowing\_sand: Перезарядка: 7 сек.
+
+
 
 _<mark style="color:blue;">**Intoxicate:**</mark>_
 
@@ -66,6 +78,8 @@ _<mark style="color:blue;">**Intoxicate:**</mark>_
 
 :hourglass\_flowing\_sand: Перезарядка: 5 сек.
 
+
+
 _<mark style="color:blue;">**Onslaught:**</mark>_
 
 Темные духи могут заряжать и нападать на своих жертв, часто нанося им урон.
@@ -75,6 +89,8 @@ _<mark style="color:blue;">**Onslaught:**</mark>_
 * Для использования, нажмите Shift и ЛКМ
 
 :hourglass\_flowing\_sand: Перезарядка: 7 сек.
+
+
 
 _<mark style="color:blue;">**Shadow:**</mark>_
 
@@ -88,6 +104,8 @@ _<mark style="color:blue;">**Shadow:**</mark>_
 
 :hourglass\_flowing\_sand: Перезарядка: 10 сек.
 
+
+
 _<mark style="color:blue;">**Strike:**</mark>_
 
 Приблизьтесь к цели и нанесите ей урон. Это телепортирует вас к цели.
@@ -98,11 +116,13 @@ _<mark style="color:blue;">**Strike:**</mark>_
 
 :hourglass\_flowing\_sand: Перезарядка: 4 сек.
 
+
+
 _<mark style="color:purple;">**Пассивные способности:**</mark>_
 
-_**DarkAlliance**_ - тёмные духи и мобы взаимодействуют друг с другом! Их союз заставляет мобов не нападать на тёмных духов.
-
 _**SinisterAura**_ - тёмные духи полны негативной энергии которая может влиять на их цель. Тёмные духи способны высвободить эту энергию и вызвать ауру которая даст негативные эффекты на всех кто находится рядом. Каждый раз когда в тебя попадают, есть небольшой шанс вызвать эту ауру.
+
+
 
 _<mark style="color:purple;">**Комбо:**</mark>_
 
