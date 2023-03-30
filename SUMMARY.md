@@ -452,7 +452,7 @@
 * [💼 Робота](igrovi-momenti/rabota.md)
 * [💫 Магія](igrovi-momenti/magiya/README.md)
   * [Світлий дух](igrovi-momenti/magiya/svetlyi-dukh.md)
-  * [Темный дух](igrovi-momenti/magiya/tyomnyi-dukh.md)
+  * [Темний дух](igrovi-momenti/magiya/tyomnyi-dukh.md)
   * [Вогонь](igrovi-momenti/magiya/ogon.md)
   * [Вода](igrovi-momenti/magiya/voda.md)
   * [Чи](igrovi-momenti/magiya/chi.md)
