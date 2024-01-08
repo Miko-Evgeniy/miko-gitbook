@@ -18,8 +18,8 @@
 
 _**IP сервера**_&#x20;
 
-:desktop: ПК - `miko.monster:25565` \
-:mobile\_phone: Телефон - `miko.monster:19132`
+:desktop: ПК -`miko-monster.pp.ua:25565` \
+:mobile\_phone: Телефон - `miko-monster.pp.ua:19132`
 
 ## Як почати? :rocket:&#x20;
 
