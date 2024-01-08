@@ -40,7 +40,7 @@ _**IP сервера**_&#x20;
 {% endcontent-ref %}
 
 {% hint style="info" %}
-Залишилися питання? Задавайте їх у нашому [Discord](https://discord.gg/Ms6aY7Wgye) у спеціальному каналі [допомога](https://discord.com/channels/713857039251800154/973887184971108353)
+Залишилися питання? Задавайте їх у нашому [Discord](https://discord.gg/bA729NstXD) у спеціальному каналі [допомога](https://discord.com/channels/1060327997548265603/1182341290982113361)
 {% endhint %}
 
 ## Детальніше про наші плагіни
