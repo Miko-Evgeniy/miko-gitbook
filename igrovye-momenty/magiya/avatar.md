@@ -4,7 +4,7 @@
 
 :game\_die: **Шанс выпадения - 1%**
 
-****
+
 
 _<mark style="color:purple;">**AvatarState:**</mark>_
 

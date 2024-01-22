@@ -27,6 +27,4 @@ coverY: 0
 
 <figure><img src="../../.gitbook/assets/red_ore_ingot_result-multi.png" alt=""><figcaption></figcaption></figure>
 
-|                                                                                                    | Улучшенный драгонитовый блок                                                                   |
-| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| <p>Драгонитовый блок +<br><a href="../essencii/pylayushaya-essenciya.md">Пылающая эссенция</a></p> | <img src="../../.gitbook/assets/red_ore_block_improved.png" alt="Этап 1" data-size="original"> |
+<table><thead><tr><th width="253"> </th><th>Улучшенный драгонитовый блок</th></tr></thead><tbody><tr><td>Драгонитовый блок +<br><a href="../essencii/pylayushaya-essenciya.md">Пылающая эссенция</a></td><td><img src="../../.gitbook/assets/red_ore_block_improved.png" alt="Этап 1" data-size="original"></td></tr></tbody></table>

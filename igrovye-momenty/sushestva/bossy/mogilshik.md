@@ -29,4 +29,4 @@
 
 #### _Кладбищенская псина_
 
-* __[_покрытый слизью жемчуг_](../../materialy/pokrytyi-slizyu-zhemchug.md) _с шансом 5%_
+* [_покрытый слизью жемчуг_](../../materialy/pokrytyi-slizyu-zhemchug.md) _с шансом 5%_
