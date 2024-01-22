@@ -4,9 +4,9 @@
 
 :game\_die: **Шанс выпадения стихии - 16.9%**
 
-****
 
-****
+
+
 
 _<mark style="color:green;">**Catapult:**</mark>_
 
