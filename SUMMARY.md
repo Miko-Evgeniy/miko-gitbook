@@ -1,6 +1,6 @@
 # Table of contents
 
-## ℹ Общая информация
+## ℹ️ Общая информация
 
 * [💽 Сервер](README.md)
 * [👑 Привилегии](obshaya-informaciya/privilegii.md)
@@ -411,14 +411,14 @@
   * [Мифический подарок](igrovye-momenty/podarki/gift\_mythical/README.md)
     * [Закрытый мифический подарок](igrovye-momenty/podarki/gift\_mythical/gift\_mythical\_advance.md)
     * [Ключ от закрытого мифического подарка](igrovye-momenty/podarki/gift\_mythical/mythic\_key.md)
-* [🛡 Наборы брони и инструментов](igrovye-momenty/nabory-broni/README.md)
+* [🛡️ Наборы брони и инструментов](igrovye-momenty/nabory-broni/README.md)
   * [🔥 Комплект Пламени](igrovye-momenty/nabory-broni/nabor-broni-plameni/README.md)
     * [🎩 Шлем Пламени](igrovye-momenty/nabory-broni/nabor-broni-plameni/shlem-plameni.md)
     * [👕 Кираса Пламени](igrovye-momenty/nabory-broni/nabor-broni-plameni/kirasa-plameni.md)
     * [👖 Поножи Пламени](igrovye-momenty/nabory-broni/nabor-broni-plameni/ponozhi-plameni.md)
     * [👟 Ботинки Пламени](igrovye-momenty/nabory-broni/nabor-broni-plameni/botinki-plameni.md)
-    * [🗡 Пылающая Коса](igrovye-momenty/nabory-broni/nabor-broni-plameni/kosa-plameni/README.md)
-      * [🗡 Сияющая Коса Пламени](igrovye-momenty/nabory-broni/nabor-broni-plameni/kosa-plameni/siyayushaya-kosa-plameni.md)
+    * [🗡️ Пылающая Коса](igrovye-momenty/nabory-broni/nabor-broni-plameni/kosa-plameni/README.md)
+      * [🗡️ Сияющая Коса Пламени](igrovye-momenty/nabory-broni/nabor-broni-plameni/kosa-plameni/siyayushaya-kosa-plameni.md)
   * [✨ Набор Miko Nitro](igrovye-momenty/nabory-broni/nabor-miko-nitro.md)
 * [🎆 Эссенции](igrovye-momenty/essencii/README.md)
   * [🔴 Пылающая эссенция](igrovye-momenty/essencii/pylayushaya-essenciya.md)
@@ -434,7 +434,7 @@
 * [🦲 Существа](igrovye-momenty/sushestva/README.md)
   * [💀 Боссы](igrovye-momenty/sushestva/bossy/README.md)
     * [🤺 Падший Опустошитель](igrovye-momenty/sushestva/bossy/padshii-opustoshitel.md)
-    * [✝ Могильщик](igrovye-momenty/sushestva/bossy/mogilshik.md)
+    * [✝️ Могильщик](igrovye-momenty/sushestva/bossy/mogilshik.md)
     * [🦊 Аматэрасу](igrovye-momenty/sushestva/bossy/amaterasu.md)
     * [👿 Лилит](igrovye-momenty/sushestva/bossy/lilit.md)
   * [🧟 Мобы](igrovye-momenty/sushestva/moby/README.md)
@@ -445,7 +445,7 @@
     * [🎭 Смотрящая за тварями](igrovye-momenty/sushestva/poleznye-nps/smotryashaya-za-tvaryami.md)
 * [🐶 Питомцы](igrovye-momenty/pitomcy/README.md)
   * [😈 Дитя Лилит](igrovye-momenty/pitomcy/ditya-lilit.md)
-* [🏝 Генерации](igrovye-momenty/generacii/README.md)
+* [🏝️ Генерации](igrovye-momenty/generacii/README.md)
   * [Верхний мир](igrovye-momenty/generacii/verkhnii-mir.md)
   * [Нижний мир (Незер)](igrovye-momenty/generacii/nezer.md)
   * [Край](igrovye-momenty/generacii/krai.md)
@@ -460,13 +460,13 @@
   * [Воздух](igrovye-momenty/magiya/vozdukh.md)
   * [Аватар](igrovye-momenty/magiya/avatar.md)
 
-## ⚒ Дополнительные крафты
+## ⚒️ Дополнительные крафты
 
 * [❓ Скоро](dopolnitelnye-krafty/untitled.md)
 
 ## 🪄 Кастомные чары
 
-* [◻ Простые чары](kastomnye-chary/page-2/README.md)
+* [◻️ Простые чары](kastomnye-chary/page-2/README.md)
   * [Удар](kastomnye-chary/page-2/udar.md)
   * [Перемешка](kastomnye-chary/page-2/peremeshka.md)
   * [Водяной](kastomnye-chary/page-2/vodyanoi.md)
@@ -662,7 +662,7 @@
 * [Чары](komandy/chary.md)
 * [Разное](komandy/raznoe.md)
 
-## 🗃 Плагины
+## 🗃️ Плагины
 
 * [AdvancedChests](plaginy/advancedchests.md)
 * [AdvancedEnchantments](plaginy/advancedenchantments.md)
